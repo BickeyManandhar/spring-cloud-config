@@ -7,7 +7,7 @@ accounts:
   env: "PROD"
   contactDetails:
     name: "Bickey Manandhar - Production Lead"
-    email: "xyz@gmail.com"
+    email: "{cipher}7a36fec33d34927fd231d73a932ddc3208f4cc15b27d89072070dab16e644443" #encrypted value
   onCallSupport:
     - (923)456-7891
     - (434)567-8910
