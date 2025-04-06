@@ -1,0 +1,19 @@
+build:
+  version: "1.0"
+
+#  this will be prefix for CardsContactInfoDto
+cards:
+  message: "Welcome to my banking project."
+  env: "Default"
+  contactDetails:
+    name: "Bickey Manandhar - Developer"
+    email: "xyz@gmail.com"
+  onCallSupport:
+    - (123)456-7891
+    - (234)567-8910
+
+
+
+
+
+
