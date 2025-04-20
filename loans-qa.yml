@@ -3,7 +3,7 @@ build:
 
 #  this will be prefix for LoansContactInfoDto
 loans:
-  message: "Welcome to the QA environment."
+  message: "Welcome to the QA env."
   env: "QA"
   contactDetails:
     name: "Bickey Manandhar - QA Lead"
