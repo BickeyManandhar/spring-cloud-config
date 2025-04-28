@@ -3,7 +3,7 @@ build:
 
 #  this will be prefix for CardsContactInfoDto
 cards:
-  message: "Welcome to the QA env. Webhook2"
+  message: "Welcome to the QA env.."
   env: "QA"
   contactDetails:
     name: "Bickey Manandhar - QA Lead"
