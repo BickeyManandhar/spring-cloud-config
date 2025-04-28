@@ -8,7 +8,7 @@ build:
 
 #  this will be prefix for CardsContactInfoDto
 cards:
-  message: "Welcome to the PROD Env."
+  message: "Welcome to the PROD Environment - webhook."
   env: "PROD"
   contactDetails:
     name: "Bickey Manandhar - Production Lead"
